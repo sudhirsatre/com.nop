@@ -17,9 +17,9 @@
 ## (Comments)
 #Sample Feature Definition Template
 #@LoginNOP
+
 Feature: Test Login 
  
-
  # @loginadmin
   Scenario: Test the Loing function
     Given User are open the browser "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"
